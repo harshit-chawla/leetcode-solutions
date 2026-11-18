@@ -25,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0601-human-traffic-of-stadium](https://github.com/harshit-chawla/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
 | [1045-customers-who-bought-all-products](https://github.com/harshit-chawla/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/harshit-chawla/leetcode-solutions/tree/master/1070-product-sales-analysis-iii) |
+| [1341-movie-rating](https://github.com/harshit-chawla/leetcode-solutions/tree/master/1341-movie-rating) |
 | [3451-find-invalid-ip-addresses](https://github.com/harshit-chawla/leetcode-solutions/tree/master/3451-find-invalid-ip-addresses) |
 <!---LeetCode Topics End-->
