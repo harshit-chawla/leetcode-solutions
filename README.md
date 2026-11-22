@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/harshit-chawla/leetcode-solutions/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/harshit-chawla/leetcode-solutions/tree/master/1393-capital-gainloss) |
 | [3451-find-invalid-ip-addresses](https://github.com/harshit-chawla/leetcode-solutions/tree/master/3451-find-invalid-ip-addresses) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshit-chawla/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshit-chawla/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshit-chawla/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
