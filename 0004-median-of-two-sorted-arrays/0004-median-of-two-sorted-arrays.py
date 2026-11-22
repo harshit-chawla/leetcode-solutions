@@ -6,10 +6,9 @@ class Solution:
         final_arr = sorted(arr1+arr2)
         len_final_arr = len(final_arr)
         
-        median = int((int(len_final_arr)/2)-0.5)
+        median = int((int(len_final_arr)/2))
         
         if len_final_arr%2 == 0:
             return (final_arr[median]+final_arr[-median-1])/2
         else:
-            median = int((int(len_final_arr)/2)-0.5)
-            return final_arr[median]
+            return final_arr[int(float(median)+0.5)]
